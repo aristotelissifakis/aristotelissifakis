@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello There 👋
 
 - My name is Aristotelis Sifakis.
 - I am currently studing Informatics and Computer Engineering at the University of West Attica.
